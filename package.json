@@ -1,7 +1,7 @@
 {
-  "name": "week-4s-homework",
+  "name": "complete-file",
   "version": "1.0.0",
-  "description": "",
+  "description": "완성한거",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
